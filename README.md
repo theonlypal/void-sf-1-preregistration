@@ -13,6 +13,7 @@ the same model served directly by Anthropic under byte-identical messages.
 - Inputs: three null concepts and three matched controls under the primary
   embodiment system prompt of the Cross-Vendor Semantic Void Matrix.
 - Predictions are in `PREREG.md`, committed before any VOID-SF-1 inference.
+- Sealed at tag v1.0.0, commit 3e4fae10980f56e7de1c7c4f3af7951d0d6939f8. DOI: https://doi.org/10.5281/zenodo.23988726
 
 | File | Content |
 |---|---|
