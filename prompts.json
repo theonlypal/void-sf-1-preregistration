@@ -1,0 +1,45 @@
+{
+ "system": {
+  "text": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+  "utf8_bytes": 115,
+  "sha256": "c4d4ddefdd80c6274e7ce64ad59e539eb0cf35c7270fe0da51255b1e3f3c2b47"
+ },
+ "inputs": {
+  "Be silence.": {
+   "text": "Be silence.",
+   "utf8_bytes": 11,
+   "sha256": "cdc0262242c79b0fef9aca41862e543632586e0221fc368bf46a72965282dc57",
+   "role": "null"
+  },
+  "Be nothing.": {
+   "text": "Be nothing.",
+   "utf8_bytes": 11,
+   "sha256": "58daa738843bc8f34ed6b1d1eef6647a09a54006d73fbd1d786d8b8a663e4485",
+   "role": "null"
+  },
+  "Be the null.": {
+   "text": "Be the null.",
+   "utf8_bytes": 12,
+   "sha256": "f31e587e56ee77a23171e438da1faed0e0f122133558bf11fc654f18366d2bdb",
+   "role": "null"
+  },
+  "Be speech.": {
+   "text": "Be speech.",
+   "utf8_bytes": 10,
+   "sha256": "42444be4c85b8b88bc70b3318f5514294613661674eddb76a7de34fe86a2956a",
+   "role": "control"
+  },
+  "Be something.": {
+   "text": "Be something.",
+   "utf8_bytes": 13,
+   "sha256": "9f867ebe544cbb3ba7514c9558136823188e1d3af7b3aedd1c312dd3584268fc",
+   "role": "control"
+  },
+  "Be a value.": {
+   "text": "Be a value.",
+   "utf8_bytes": 11,
+   "sha256": "a0070648c905b7636ef2cb90f0cd7545fd9d1e062bfebc4af183c9be2b76ecda",
+   "role": "control"
+  }
+ }
+}

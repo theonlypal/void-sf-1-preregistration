@@ -1,0 +1,102 @@
+{
+ "alias_probe": {
+  "sfdc_ai__DefaultBedrockAnthropicClaude46Opus": {
+   "served_model": null,
+   "native": "OP",
+   "error": "apex:System.StringException: ERROR:aiplatform.ModelsAPI.createChatGenerations_ResponseException|Script-thrown exception|{\"defaultResponse\":null,\"Code500\":null,\"Code429\":{\"targets_set\":null,\"targets\":null,\"properties_set\":true,\"properties\":{\"target\":null},\"parameters_set\":true,\"parameters\":[{\"value_set\":t"
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude45Opus": {
+   "served_model": null,
+   "native": "OP",
+   "error": "apex:System.StringException: ERROR:aiplatform.ModelsAPI.createChatGenerations_ResponseException|Script-thrown exception|{\"defaultResponse\":null,\"Code500\":null,\"Code429\":{\"targets_set\":null,\"targets\":null,\"properties_set\":true,\"properties\":{\"target\":null},\"parameters_set\":true,\"parameters\":[{\"value_set\":t"
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude47Opus": {
+   "served_model": null,
+   "native": "OP",
+   "error": "apex:System.StringException: ERROR:aiplatform.ModelsAPI.createChatGenerations_ResponseException|Script-thrown exception|{\"defaultResponse\":null,\"Code500\":null,\"Code429\":{\"targets_set\":null,\"targets\":null,\"properties_set\":true,\"properties\":{\"target\":null},\"parameters_set\":true,\"parameters\":[{\"value_set\":t"
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude48Opus": {
+   "served_model": null,
+   "native": "OP",
+   "error": "apex:System.StringException: ERROR:aiplatform.ModelsAPI.createChatGenerations_ResponseException|Script-thrown exception|{\"defaultResponse\":null,\"Code500\":null,\"Code429\":{\"targets_set\":null,\"targets\":null,\"properties_set\":true,\"properties\":{\"target\":null},\"parameters_set\":true,\"parameters\":[{\"value_set\":t"
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude5Opus": {
+   "served_model": null,
+   "native": "OP",
+   "error": "apex:System.StringException: ERROR:aiplatform.ModelsAPI.createChatGenerations_ResponseException|Script-thrown exception|{\"defaultResponse\":null,\"Code500\":null,\"Code429\":{\"targets_set\":null,\"targets\":null,\"properties_set\":true,\"properties\":{\"target\":null},\"parameters_set\":true,\"parameters\":[{\"value_set\":t"
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude46Sonnet": {
+   "served_model": "anthropic.claude-sonnet-4-6",
+   "native": "R",
+   "error": null
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude5Sonnet": {
+   "served_model": "anthropic.claude-sonnet-5",
+   "native": "R",
+   "error": null
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude45Sonnet": {
+   "served_model": "anthropic.claude-sonnet-4-5-20250929-v1:0",
+   "native": "R",
+   "error": null
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude4Sonnet": {
+   "served_model": "anthropic.claude-sonnet-4-6",
+   "native": "R",
+   "error": null
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude37Sonnet": {
+   "served_model": "anthropic.claude-sonnet-4-5-20250929-v1:0",
+   "native": "R",
+   "error": null
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude45Haiku": {
+   "served_model": "anthropic.claude-haiku-4-5-20251001-v1:0",
+   "native": "R",
+   "error": null
+  },
+  "sfdc_ai__DefaultBedrockAnthropicClaude3Haiku": {
+   "served_model": "anthropic.claude-haiku-4-5-20251001-v1:0",
+   "native": "R",
+   "error": null
+  }
+ },
+ "controls": {
+  "sonnet-4-6.SF": {
+   "native": "R",
+   "returned_model": "anthropic.claude-sonnet-4-6",
+   "answer_bytes": 1302,
+   "termination": "end_turn",
+   "input_tokens": 588,
+   "output_tokens": 330,
+   "error": null
+  },
+  "sonnet-4-6.DA": {
+   "native": "R",
+   "returned_model": "claude-sonnet-4-6",
+   "answer_bytes": 1062,
+   "termination": "end_turn",
+   "input_tokens": 36,
+   "output_tokens": 249,
+   "error": null
+  },
+  "sonnet-5.SF": {
+   "native": "R",
+   "returned_model": "anthropic.claude-sonnet-5",
+   "answer_bytes": 1504,
+   "termination": "end_turn",
+   "input_tokens": 42,
+   "output_tokens": 473,
+   "error": null
+  },
+  "sonnet-5.DA": {
+   "native": "R",
+   "returned_model": "claude-sonnet-5",
+   "answer_bytes": 1780,
+   "termination": "end_turn",
+   "input_tokens": 42,
+   "output_tokens": 700,
+   "error": null
+  }
+ }
+}
